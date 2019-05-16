@@ -28,7 +28,8 @@
 
 
 @font-face {
-    font-family: 'open_semibold';
+		font-family: 'open_semibold';
+		font-display: auto;
     src: url('../fonts/opensans-semibold.eot');
     src: url('../fonts/opensans-semibold.eot?#iefix') format('embedded-opentype'),
          url('../fonts/opensans-semibold.woff') format('woff'),
